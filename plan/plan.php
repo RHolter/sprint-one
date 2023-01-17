@@ -97,7 +97,7 @@ else {
                         class="form-control bg-white border-none"
                         aria-label="Current plan link"
                         aria-describedby="copy-url"
-                        value="https://plindsay.greenriverdev.com/372/sprint-one/plan/?token=<?php echo $token; ?>"
+                        value="https://rholter.greenriverdev.com/print-one/plan/?token=<?php echo $token; ?>"
                         disabled
                         aria-disabled="true"
                     >
